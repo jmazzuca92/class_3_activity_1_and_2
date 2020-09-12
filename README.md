@@ -1,6 +1,6 @@
 # A Little Bit About Joseph Mazzuca
 
-![alt text](/Users/joemazzuca/Desktop/Headshot.png)
+![Joseph Mazzuca](Headshot.png)
 
 ## Description:
 
