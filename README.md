@@ -8,4 +8,4 @@ I am currently emplyed as a Financial Planner at BMO Bank of Montreal. I have ob
 
 I have taken this course because COVID has really opened my eyes to see how fast the changing landscape that will occur to the retail banking world and I want to further enhance my skill set so I can stay relvant with the fast changing aspect in FinTech.
 
-Inclusive f this course, I am currently enrolled in a Risk Management course through York University that will compliment skills obtained in our bootcamp.
+Inclusive of this course, I am currently enrolled in a Risk Management course through York University that will compliment skills obtained in our bootcamp.
